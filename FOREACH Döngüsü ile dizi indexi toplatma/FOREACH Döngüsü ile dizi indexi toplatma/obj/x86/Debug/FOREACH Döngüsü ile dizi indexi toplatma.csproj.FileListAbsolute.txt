@@ -1,0 +1,15 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\bin\Debug\FOREACH Döngüsü ile dizi indexi toplatma.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\bin\Debug\FOREACH Döngüsü ile dizi indexi toplatma.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\bin\Debug\FOREACH Döngüsü ile dizi indexi toplatma.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\bin\Debug\FOREACH Döngüsü ile dizi indexi toplatma.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\FOREACH Döngüsü ile dizi indexi toplatma\FOREACH Döngüsü ile dizi indexi toplatma\obj\x86\Debug\FOREACH Döngüsü ile dizi indexi toplatma.pdb
